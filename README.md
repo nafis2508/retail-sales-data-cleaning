@@ -162,7 +162,7 @@ retail-sales-data-cleaning/
 ## 👤 Author
 
 **Muntasir Md. Nafis** — Data Analyst  
-[Upwork Profile](https://www.upwork.com) · [LinkedIn](https://www.linkedin.com)
+· [LinkedIn](https://www.linkedin.com)
 
 ---
 
