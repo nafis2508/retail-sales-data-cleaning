@@ -12,13 +12,13 @@ A complete data cleaning and analysis project on 12 months of retail point-of-sa
 ## 📸 Project Screenshots
 
 ### Cleaned Worksheet — Conditional Formatting + XLOOKUP
-![Worksheet](screenshots/01_worksheet_conditional_formatting.png)
+![Worksheet](retail-sales-data-cleaning/screenshots/01_worksheet_conditional_formatting.png)
 
 ### PivotTable Dashboard — Revenue by Category × Location
-![PivotTable](screenshots/02_pivot_table_slicer.png)
+![PivotTable](retail-sales-data-cleaning/screenshots/02_pivot_table_slicer.png)
 
 ### Product Reference Sheet — Normalised Lookup Table
-![Product Reference](screenshots/03_product_reference.png)
+![Product Reference](retail-sales-data-cleaning/screenshots/03_product_reference.png)
 
 ---
 
